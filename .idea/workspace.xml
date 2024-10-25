@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b3f9a00-4134-4fa7-8655-79f242e130c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NumberChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DatabaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/NumberCheckerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/fibonacci.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/radii.csv" afterDir="false" />
-    </list>
+    <list default="true" id="0b3f9a00-4134-4fa7-8655-79f242e130c2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,34 +30,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.CalculatorExampleTest.executor": "Run",
-    "JUnit.CalculatorTest.executor": "Run",
-    "JUnit.CircleTest.executor": "Run",
-    "JUnit.DatabaseTest.executor": "Run",
-    "JUnit.NumberCheckerTest.executor": "Run",
-    "JUnit.PersonTest.executor": "Run",
-    "JUnit.PointTest.executor": "Run",
-    "JUnit.testing_example_calculatorTest.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/selmadjozic/IdeaProjects/SVVT_labs/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.CalculatorExampleTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CircleTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NumberCheckerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PersonTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PointTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.testing_example_calculatorTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/selmadjozic/IdeaProjects/SVVT_labs/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -121,11 +98,16 @@
       <workItem from="1729785306985" duration="7642000" />
       <workItem from="1729852481571" duration="1013000" />
       <workItem from="1729854323629" duration="3706000" />
+      <workItem from="1729858902773" duration="241000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-m &quot;labs_materials&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="-m &quot;labs_materials&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
