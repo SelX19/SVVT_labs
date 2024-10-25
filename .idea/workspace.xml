@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b3f9a00-4134-4fa7-8655-79f242e130c2" name="Changes" comment="" />
+    <list default="true" id="0b3f9a00-4134-4fa7-8655-79f242e130c2" name="Changes" comment="-m &quot;labs_materials&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +21,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SelX19"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SelX19/SVVT_labs.git",
+    "accountId": "fe7ebe40-90a6-48ee-911f-d4ab276a6127"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -99,6 +111,7 @@
       <workItem from="1729852481571" duration="1013000" />
       <workItem from="1729854323629" duration="3706000" />
       <workItem from="1729858902773" duration="241000" />
+      <workItem from="1729859146249" duration="572000" />
     </task>
     <servers />
   </component>
