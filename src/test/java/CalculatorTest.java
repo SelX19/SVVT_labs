@@ -72,7 +72,7 @@ class CalculatorTest {
 
         String hi = "Hello";
         assertNotNull(hi); // shall pass tests
-// tesst oush
+// tesst push
     }
 
     //Task2 ddf

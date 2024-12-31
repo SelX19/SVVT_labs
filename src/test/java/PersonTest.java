@@ -21,7 +21,7 @@ class PersonTest {
     @Test
     public void testPerson1() {
         Person adult = new Person(19);
-        Person child = new Person (5);
+        Person child = new Person(5);
 
         assertTrue(adult.getAge()>18, "an adult");
         assertTrue(child.getAge()<=18, "a child");
@@ -31,7 +31,7 @@ class PersonTest {
     @Test
     public void testPerson2() {
         Person adult = new Person(19);
-        Person child = new Person (5);
+        Person child = new Person(5);
 
         assertTrue(adult.getAge()>=6, "can go to school");
         assertTrue(child.getAge()<6, "cannot go to school");

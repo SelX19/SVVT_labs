@@ -1,0 +1,10 @@
+manufacturer, screenSize, price, yearOfManufacture, maxRefreshRate
+"HP", 35, 200, 2020, 200
+"Acer", 20, 200, 2011, 200
+"Acer", 40, 150, 2010, 100
+"Dell", 30, 300, 2023, 300
+"Dell", 30, 300, 2023, 100
+"Dell", 20, 300, 2023, 300
+"Dell", 20, 300, 2023, 100
+"Lenovo", 20, 300, 2023, 100
+
